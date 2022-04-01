@@ -1,0 +1,2 @@
+# movie-ticket-booking-system-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9849236590954bcb96b6e73475ca6e9c)](https://app.codacy.com/gh/gayathri8910/movie-ticket-booking-system-?utm_source=github.com&utm_medium=referral&utm_content=gayathri8910/movie-ticket-booking-system-&utm_campaign=Badge_Grade_Settings)
